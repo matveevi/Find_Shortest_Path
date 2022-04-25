@@ -1,2 +1,2 @@
 all:
-	g++ -std=c++17 A.cpp -o Find_Sh_Path
+	g++ -std=c++17 src/A.cpp -o Find_Sh_Path
